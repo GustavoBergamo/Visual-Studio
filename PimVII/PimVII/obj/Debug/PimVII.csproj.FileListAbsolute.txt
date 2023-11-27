@@ -1,0 +1,38 @@
+Z:\PimVII\PimVII\bin\Debug\PimVII.exe.config
+Z:\PimVII\PimVII\bin\Debug\PimVII.exe
+Z:\PimVII\PimVII\bin\Debug\PimVII.pdb
+Z:\PimVII\PimVII\obj\Debug\PimVII.csproj.AssemblyReference.cache
+Z:\PimVII\PimVII\obj\Debug\PimVII.Properties.Resources.resources
+Z:\PimVII\PimVII\obj\Debug\PimVII.csproj.GenerateResource.cache
+Z:\PimVII\PimVII\obj\Debug\PimVII.csproj.CoreCompileInputs.cache
+Z:\PimVII\PimVII\obj\Debug\PimVII.exe
+Z:\PimVII\PimVII\obj\Debug\PimVII.pdb
+Z:\PimVII\PimVII\obj\Debug\PimVII.Form1.resources
+Z:\PimVII\PimVII\bin\Debug\EntityFramework.dll
+Z:\PimVII\PimVII\bin\Debug\EntityFramework.SqlServer.dll
+Z:\PimVII\PimVII\bin\Debug\System.Data.SQLite.dll
+Z:\PimVII\PimVII\bin\Debug\System.Data.SQLite.EF6.dll
+Z:\PimVII\PimVII\bin\Debug\System.Data.SQLite.Linq.dll
+Z:\PimVII\PimVII\bin\Debug\EntityFramework.xml
+Z:\PimVII\PimVII\bin\Debug\EntityFramework.SqlServer.xml
+Z:\PimVII\PimVII\bin\Debug\System.Data.SQLite.xml
+Z:\PimVII\PimVII\obj\Debug\PimVII.csproj.CopyComplete
+\\Mac\Visual Studio\PimVII\PimVII\bin\Debug\PimVII.exe.config
+\\Mac\Visual Studio\PimVII\PimVII\bin\Debug\PimVII.exe
+\\Mac\Visual Studio\PimVII\PimVII\bin\Debug\PimVII.pdb
+\\Mac\Visual Studio\PimVII\PimVII\bin\Debug\EntityFramework.dll
+\\Mac\Visual Studio\PimVII\PimVII\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Visual Studio\PimVII\PimVII\bin\Debug\System.Data.SQLite.dll
+\\Mac\Visual Studio\PimVII\PimVII\bin\Debug\System.Data.SQLite.EF6.dll
+\\Mac\Visual Studio\PimVII\PimVII\bin\Debug\System.Data.SQLite.Linq.dll
+\\Mac\Visual Studio\PimVII\PimVII\bin\Debug\EntityFramework.xml
+\\Mac\Visual Studio\PimVII\PimVII\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Visual Studio\PimVII\PimVII\bin\Debug\System.Data.SQLite.xml
+\\Mac\Visual Studio\PimVII\PimVII\obj\Debug\PimVII.csproj.AssemblyReference.cache
+\\Mac\Visual Studio\PimVII\PimVII\obj\Debug\PimVII.Form1.resources
+\\Mac\Visual Studio\PimVII\PimVII\obj\Debug\PimVII.Properties.Resources.resources
+\\Mac\Visual Studio\PimVII\PimVII\obj\Debug\PimVII.csproj.GenerateResource.cache
+\\Mac\Visual Studio\PimVII\PimVII\obj\Debug\PimVII.csproj.CoreCompileInputs.cache
+\\Mac\Visual Studio\PimVII\PimVII\obj\Debug\PimVII.csproj.CopyComplete
+\\Mac\Visual Studio\PimVII\PimVII\obj\Debug\PimVII.exe
+\\Mac\Visual Studio\PimVII\PimVII\obj\Debug\PimVII.pdb
